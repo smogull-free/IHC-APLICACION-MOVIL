@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+    <item
+        android:id="@+id/Espanol"
+        android:orderInCategory="100"
+        android:title="Español"
+        app:showAsAction="never" />
+    <item
+    android:id="@+id/Ingles"
+    android:orderInCategory="100"
+    android:title="Inglés"
+    app:showAsAction="never" />
+   <item
+    android:id="@+id/Portugues"
+    android:orderInCategory="100"
+    android:title="Portugués"
+    app:showAsAction="never" />
+</menu>

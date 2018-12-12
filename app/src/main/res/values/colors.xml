@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d2638</color>
+    <color name="colorPrimaryDark">#181A24</color>
+    <color name="colorAccent">#545251</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+    <color name="ModeloColorProduct">#61605f</color>
+    <color name="PrecioColorProduct">#972e0e</color>
+    <color name="FondoColorReciclerProduct">#e9e6e6</color>
+</resources>

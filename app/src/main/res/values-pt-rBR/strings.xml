@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IHC-PROYECTO</string>
+    <string name="buton_celular">Celular</string>
+    <string name="buton_computadora">Computador</string>
+    <string name="buton_tablet">Tablets</string>
+    <string name="buton_laptop">Portatil</string>
+    <string name="mas_vendidos">Melhores vendedores</string>
+    <string name="menu_lateral_Administrador">Administrador</string>
+    <string name="menu_lateral_Inicio">Início</string>
+    <string name="menu_lateral_Sesion">Sessão</string>
+    <string name="menu_lateral_SobreNosotros">Sobre nós</string>
+    <string name="productos_oferta">Produtos em oferta</string>
+    <string name="productos_recientes">Produtos recentes</string>
+    <string name="nombre_Usuario">Nome de usuário</string>
+    <string name="apellidos_Usuario">Apelido</string>
+    <string name="correo_Usuario">Correio eletrônico</string>
+    <string name="b_registrar_Usuario">Cadastre-se</string>
+    <string name="titulo_sesion">Cadastre-se</string>
+    <string name="inicia_sesion">Iniciar sessão</string>
+</resources>
